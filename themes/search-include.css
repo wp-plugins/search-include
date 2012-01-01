@@ -1,0 +1,21 @@
+#search-includes{
+	margin:15px auto	
+}
+h2.search-include-title{
+	color: red;
+	font: 16px bold;
+}
+div.search-include-engine{
+	font:20px bold;
+}
+div.search-include-result{
+	margin:10px auto
+}
+h3.search-include-title{
+	margin:auto auto 1px auto;
+	font: 16px bold; 
+}
+#search-includes div.search-include-url {
+	color: #009933;
+	font-size: smaller;
+}
