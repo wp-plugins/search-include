@@ -44,7 +44,11 @@ You can add specific Search Engines (see the documentation to see how to do that
 
 == Frequently Asked Questions ==
 
-= what's next ?=
+= When i do a search i have an eriror : failed to open stream: HTTP request failed! HTTP/1.0 503 Service Unavailable in =
+ This error mean that your php.ini directive allow_url_include is set to Off. Many hosting providers disable this directive for security reasons.
+ I’m trying to find a solution …
+
+= what's next ? =
  * It will be possible to sort the way search engines appear.
  * Use of an accordion for hiding some engine(s).
  
